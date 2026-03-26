@@ -34,4 +34,11 @@ Open with Power BI Desktop
 Interact with slicers (Year, Quarter, Month, Country, etc.)
 
 Feel free to explore, fork, or use it as a reference for your own BI projects!
+<img width="2694" height="1519" alt="Capture" src="https://github.com/user-attachments/assets/79ee427b-0ef3-4c3a-997f-d76935fdd88d" />
+<img width="2703" height="1521" alt="Capture1" src="https://github.com/user-attachments/assets/dc0ded14-e311-4a32-8e81-0af1963526bd" />
+<img width="2697" height="1513" alt="Capture2" src="https://github.com/user-attachments/assets/72c52680-a8bd-465e-a0b2-8cacb1c4a5c4" />
+<img width="2698" height="1516" alt="Capture3" src="https://github.com/user-attachments/assets/f5ec7814-29bf-4884-aa59-94cef50160e2" />
+<img width="2688" height="1517" alt="Capture4" src="https://github.com/user-attachments/assets/a269c7ce-faf3-44a2-a365-de6ca71fbcfe" />
+<img width="2693" height="1520" alt="Capture5" src="https://github.com/user-attachments/assets/11df499d-ea92-41cc-a93f-4b5fd22a8093" />
+
 
