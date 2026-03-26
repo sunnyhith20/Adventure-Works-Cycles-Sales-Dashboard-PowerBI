@@ -27,10 +27,11 @@ Relational Data Model (Fact & Dimension tables – Star Schema)
 
 Dataset
 Based on the classic AdventureWorks sample database (bike sales data covering 2010–2013).
-How to Use
 
+How to Use
 Download the .pbix file
 Open with Power BI Desktop
 Interact with slicers (Year, Quarter, Month, Country, etc.)
 
 Feel free to explore, fork, or use it as a reference for your own BI projects!
+
